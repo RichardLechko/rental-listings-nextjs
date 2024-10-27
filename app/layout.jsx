@@ -1,5 +1,11 @@
 import "@/assets/styles/global.css";
 
+export const metadata = {
+  title: "Phoenix Pulse",
+  description: "Find A Perfect Rental Property",
+  keywords: "rental, property, real estate",
+};
+
 const MainLayout = ({ children }) => {
   return (
     <html>

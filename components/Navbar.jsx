@@ -48,7 +48,7 @@ const Navbar = () => {
             <div className="hidden md:ml-6 md:block">
               <div className="flex space-x-2">
                 <a
-                  href="/index.html"
+                  href="/"
                   className="text-white bg-black hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
                 >
                   Home
@@ -173,7 +173,7 @@ const Navbar = () => {
       <div className="hidden" id="mobile-menu">
         <div className="space-y-1 px-2 pb-3 pt-2">
           <a
-            href="/index.html"
+            href="/"
             className="bg-black text-white block rounded-md px-3 py-2 text-base font-medium"
           >
             Home

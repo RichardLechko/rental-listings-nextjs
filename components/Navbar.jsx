@@ -54,7 +54,7 @@ const Navbar = () => {
                   Home
                 </a>
                 <a
-                  href="/properties.html"
+                  href="/properties"
                   className="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
                 >
                   Properties
@@ -179,7 +179,7 @@ const Navbar = () => {
             Home
           </a>
           <a
-            href="/properties.html"
+            href="/properties"
             className="text-white block rounded-md px-3 py-2 text-base font-medium"
           >
             Properties
